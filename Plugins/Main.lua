@@ -10,7 +10,7 @@
 	end
 Help = {
 En = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '*  Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -97,8 +97,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Admin = '* Admins Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -172,8 +172,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+ExAdmin = '* Extra Admins Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -243,8 +243,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Mod = '* GroupModerators Help*\n'
 ..'`>`/ID [_Reply|@Username|UserID_]: *Get Target UserID*\n'
 ..'`>`/Link Del : *Set Link Posting Stats On Clean*\n'
 ..'`>`/Link Kick : *Set Link Posting Stats On KickUser*\n'
@@ -311,11 +311,11 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *Shows Group Settings*\n'
 ..'`>`/Rules : *Shows Group Rules*\n'
 ..'`>`/Nerkh : *Shows Group Fee*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`@SPRCPU\\_Company'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Member = '`>`/Rules : *Show Group Rules*\n`>`/Nerkh : *Show Group Fee*\n`>`>> Nitro Swift , Project Of @ThinkTeam'
  },
 Fa = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '*  Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -402,8 +402,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Admin = '*Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -477,8 +477,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+ExAdmin = '*  Extra Admins Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -546,8 +546,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Mod = '*  GroupModerators Help*\n'
 ..'`>`/ID [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`/Link Del : *حذف لینک ها*\n'
 ..'`>`/Link Kick : *حذف لینک ها + اخراج کاربر*\n'
@@ -611,14 +611,14 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`/Settings : *تنظیمات گروه*\n'
 ..'`>`/Rules : *قوانین*\n'
 ..'`>`/Nerkh : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Member = '`>`/Rules : *نمایش قوانین*\n`>`/Nerkh : *نمایش قوانین گروه*\n`>`>> Nitro Swift , Project Of @ThinkTeam'
  },
 }
 
 
 FaH = {
-Sudo = '* F80 Sudos Help*\n'
+Sudo = '* Sudos Help*\n'
 ..'`>`/add : *AddGroup To Administring Groups*\n'
 ..'`>`/rem : *RemGroup To Administring Groups*\n'
 ..'`>`/leave : *Bot Leaves Group*\n'
@@ -705,8 +705,8 @@ Sudo = '* F80 Sudos Help*\n'
 ..'`>`/fbc [msgID|Reply]\n'
 ..'`>`/lua [String]\n'
 ..'`>`/update [FA|En]\n'
-..'-- @SPRCPU\\_Company --',
-Admin = '* F80 Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Admin = '*  Admins Help*\n'
 ..'`>`/add : *اضافه کردن گروه*\n'
 ..'`>`/rem : *حذف گروه*\n'
 ..'`>`/leave : *ترک گروه*\n'
@@ -780,8 +780,8 @@ Admin = '* F80 Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-ExAdmin = '* F80 Extra Admins Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+ExAdmin = '* Extra Admins Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -849,8 +849,8 @@ ExAdmin = '* F80 Extra Admins Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Mod = '* F80 GroupModerators Help*\n'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Mod = '* GroupModerators Help*\n'
 ..'`>`#ایدی [ریپلی|یوزرنیم|یوزرایدی]: *دریافت ایدی فرد مورد نظر*\n'
 ..'`>`#لینک حذف : *حذف لینک ها*\n'
 ..'`>`#لینک اخراج : *حذف لینک ها + اخراج کاربر*\n'
@@ -915,8 +915,8 @@ Mod = '* F80 GroupModerators Help*\n'
 ..'`>`#تنظیمات : *تنظیمات گروه*\n'
 ..'`>`#قوانین : *قوانین*\n'
 ..'`>`#نرخ : *نمایش قیمت گروه*\n'
-..'-- @SPRCPU\\_Company --',
-Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`@SPRCPU\\_Company'
+..'>>> Nitro Swift , Project Of @ThinkTeam',
+Member = '`>`#قوانین : *نمایش قوانین*\n`>`#نرخ : *نمایش قوانین گروه*\n`>`>>> Nitro Swift , Project Of @ThinkTeam'
  }
 		--
 		--VIP_GROUPS
@@ -1024,8 +1024,8 @@ end
 				set_text(LANG, 'list:mods', 'Group Moderators List :\n')
 				set_text(LANG, 'list:exadmins', 'Group ExtraAdmins List :\n')
 				set_text(LANG, 'list:muted', 'Group MutedUsers List :\n')
-				set_text(LANG, 'list:sudos', 'F80 Sudoers List :\n')
-				set_text(LANG, 'list:admins', 'F80 GloballyAdmins List :\n')
+				set_text(LANG, 'list:sudos', ' Sudoers List :\n')
+				set_text(LANG, 'list:admins', ' GloballyAdmins List :\n')
 				set_text(LANG, 'list:bots', 'Group API Bots List :\n')
 				set_text(LANG, 'list:kicked', 'Group KickedUsers List :\n')
 				set_text(LANG, 'list:filterd', 'Group FilterdWords List :\n')
@@ -1195,8 +1195,8 @@ end
 				set_text(LANG, 'list:mods', 'لیست مدیران گروه :\n')
 				set_text(LANG, 'list:exadmins', 'لیست میران اصلی گروه :\n')
 				set_text(LANG, 'list:muted', 'لیست سکوت :\n')
-				set_text(LANG, 'list:sudos', 'F80 Sudoers List :\n')
-				set_text(LANG, 'list:admins', 'F80 GloballyAdmins List :\n')
+				set_text(LANG, 'list:sudos', ' Sudoers List :\n')
+				set_text(LANG, 'list:admins', ' GloballyAdmins List :\n')
 				set_text(LANG, 'list:bots', 'ربات های API گروه :\n')
 				set_text(LANG, 'list:kicked', 'کاربران کیک شده :\n')
 				set_text(LANG, 'list:filterd', 'کلمات فیلتر شده :\n')
@@ -1362,8 +1362,8 @@ end
 			set_text(LANG, 'list:mods', tr(lANG, 'Group Moderators List :\n'))
 			set_text(LANG, 'list:exadmins', tr(lANG, 'Group ExtraAdmins List :\n'))
 			set_text(LANG, 'list:muted', tr(lANG, 'Group MutedUsers List :\n'))
-			set_text(LANG, 'list:sudos', tr(lANG, 'F80 Sudoers List :\n'))
-			set_text(LANG, 'list:admins', tr(lANG, 'F80 GloballyAdmins List :\n'))
+			set_text(LANG, 'list:sudos', tr(lANG, ' Sudoers List :\n'))
+			set_text(LANG, 'list:admins', tr(lANG, ' GloballyAdmins List :\n'))
 			set_text(LANG, 'list:bots', tr(lANG, 'Group API Bots List :\n'))
 			set_text(LANG, 'list:kicked', tr(lANG, 'Group KickedUsers List :\n'))
 			set_text(LANG, 'list:filterd', tr(lANG, 'Group FilterdWords List :\n'))
@@ -1559,7 +1559,7 @@ end
 	end
 --Remove Groups--
 function rem_gp(msg, chat_id, user_id, username)
-	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* @SPRCPU\\_Company *Data Base.*'
+	add = '*Group* '..chat_id..' *Hasbeen SuccsesFully Removed From* Nitro Swift *Data Base.*'
 	send_sup = '*Group *:`'..chat_id..'`\n'
 	..'*Remover* : '..(username or user_id)..'\n'
 	..'---------------------------'
@@ -2853,7 +2853,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* ` Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -2958,7 +2958,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* Nitro Swift *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -3339,7 +3339,7 @@ end
   							  	elseif matches[2]:lower() == 'گروه ها' then
   							  		hash = 'groups'
 									list = redis:smembers(hash)
-									text = '*F80 Groups List* :\n'
+									text = '* Groups List* :\n'
 									for k,v in pairs(list) do
 										if redis:get('name:'..v) then
 										text = text..'`'..k..'` *'..v..'* \n*Name:* '..redis:get('name:'..v)..'\n*Token:* '..(redis:get('token:'..v) or 'Not Set')..'\n---------\n'
@@ -3886,7 +3886,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>`>> Nitro Swift , A Project Of @ThinkTeam"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'سنجاق' and is_mod(msg) then
@@ -4031,21 +4031,15 @@ end
 								        rules =
 [[*نرخ گروه ها به شرح زیر است :*
 ---------------------
-*یک ماه *: `7000` تومان
-*پرداخت *: ppng.ir/d/9epw
-*در صورت پرداخت شارژ گروه شما 4 روز کمتر شارژ میگردد.*
+*یک ماه *: `3000` تومان
 ---------------------
-*دو ماه *: `12000` تومان
-*پرداخت* :  ppng.ir/d/foBn
-*در صورت پرداخت شارژ گروه شما 6 روز کمتر شارژ میگردد.*
----------------------
-*برای شارژ بیشتر گروه به *
-@Reload\_Life - @Reload\_LifeBOT
-@Arisharr
+*برای شارژ گروه به *
+@SikTirMirzaBot
+@ShopBuy
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+>>> Nitro Swift , Project Of @ThinkTeam
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -4156,7 +4150,7 @@ end
 								local send = ''
 								local text = ''
 								local token = ''
-								local caption = token..'\n@SPRCPU_Company'
+								local caption = token..'\n>>> Nitro Swift , Project Of @ThinkTeam'
    					   			tdcli.sendDocument(chat_id, 0, 0, 0, nil, '/root/BOT/Data/Temp/Gps/Group'..chat_id..'.lua', caption)
 							end
 
@@ -4261,7 +4255,7 @@ end
 							if matches[1]:lower() == 'reload' and is_sudo(msg) then
 								plugins = {}
   								load_plugins()
-  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* `F80 Reloaded`', 1, 'md')
+  								tdcli.sendText(chat_id, msg_id, 0, 1, nil, '*Done* ` Reloaded`', 1, 'md')
 							end
 
 							--Promote To Sudo
@@ -4366,7 +4360,7 @@ end
 									redis:sadd('groups', '-100'..chid)
 									tdcli.sendText(RLM, 0, 0, 0, nil, send_sup, 0, 'md')
 									redis:setex('group:-100'..chid, time, true) --SetEx For Ttl
-									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* @SPRCPU\\_Company *Data Base.*'
+									text = '*Group* `'..chid..'` *Hasbeen SuccsesFully Added To* Nitro Swift *Data Base.*'
 								end
 								tdcli.sendText('-100'..chid, 0, 0, 0, nil, text, 0, 'md')
         						--Remove Group
@@ -5309,7 +5303,7 @@ end
 							.."\n`>` *"..lang(gid, 'LNG').." :* `"..(redis:get('lang:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'BOTS').." :* `"..(redis:get('bots:'..gid) or 'no').."`"
 							.."\n`>` *"..lang(gid, 'EXP').." :* `"..tonumber(math.floor((redis:ttl('group:'..gid) or '0')/ 60 / 60 / 24 + 1)).."`"
-							.."\n`>` @SPRCPU\\_Company"
+							.."\n`>`>> Nitro Swift , Project Of @ThinkTeam"
 							tdcli.sendText(chat_id, msg_id, 0, 1, nil, setting, 1, 'md')
 						end
 						if matches[1]:lower() == 'pin' and is_mod(msg) then
@@ -5454,21 +5448,15 @@ end
 								        rules =
 [[*نرخ گروه ها به شرح زیر است :*
 ---------------------
-*یک ماه *: `7000` تومان
-*پرداخت *: ppng.ir/d/9epw
-*در صورت پرداخت شارژ گروه شما 4 روز کمتر شارژ میگردد.*
+*یک ماه *: `3000` تومان
 ---------------------
-*دو ماه *: `12000` تومان
-*پرداخت* :  ppng.ir/d/foBn
-*در صورت پرداخت شارژ گروه شما 6 روز کمتر شارژ میگردد.*
----------------------
-*برای شارژ بیشتر گروه به *
-@Reload\_Life - @Reload\_LifeBOT
-@Arisharr
+*برای شارژ گروه به *
+@ShopBuy
+@siktirmirzabot
 *مراجعه کنید.*
 ---------------------
 *برای اطلاع از تخفیف های ویژه با کانال ما نیز سری بزنید. :P*
-@SPRCPU\_Company
+@thinkteam
 ]]
 								        if replymsg_id ~= 0 then
 								          msgid = replymsg_id
@@ -6044,6 +6032,5 @@ end
 
 				--[[ 
 					
-					#$ This Plugin Written With Love In @SprCpu_Company By @Reload_Life
 		
 				]]
